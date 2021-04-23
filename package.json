@@ -23,7 +23,6 @@
     "mongoose": "^5.10.11",
     "react-router-dom": "^5.2.0"
   },
-  "proxy":"http://localhost:5000",
   "devDependencies": {
     "nodemon": "^2.0.6"
   }
