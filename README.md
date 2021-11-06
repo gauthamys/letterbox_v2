@@ -1,6 +1,6 @@
 ## Letterboxx
-A movie blogging website using the mern stack
+A movie blogging website deployed on heroku using the mern stack
 
-[LETTERBOXX] https://letterboxx.herokuapp.com
+[LETTERBOXX](https://letterboxx.herokuapp.com)
 
 WEB TECH 3rd SEMESTER PROJECT
